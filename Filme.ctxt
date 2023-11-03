@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Filme
+comment0.text=\r\n\ Classe\ que\ os\ filmes\ de\ uma\ plataforma\ de\ streaming.\r\n\ \r\n\ Um\ filme\ possui\ um\ titulo,\ um\ genero\ e\ uma\ dura\u00E7\u00E3o.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2023.11.02\r\n
+comment1.params=titulo\ genero\ duracao
+comment1.target=Filme(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Filme\r\n
+comment2.params=
+comment2.target=java.lang.String\ obterTitulo()
+comment2.text=\r\n\ @return\ o\ t\u00EDtulo\ do\ filme\r\n
+comment3.params=
+comment3.target=java.lang.String\ obterGenero()
+comment3.text=\r\n\ @return\ o\ g\u00EAnero\ do\ filme\r\n
+comment4.params=
+comment4.target=int\ obterDuracao()
+comment4.text=\r\n\ @return\ a\ dura\u00E7\u00E3o\ do\ filme\r\n
+numComments=5

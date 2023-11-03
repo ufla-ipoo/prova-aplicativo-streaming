@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Usuario
+comment0.text=\r\n\ Classe\ que\ representa\ uma\ usu\u00E1rio\ da\ plataforma\ de\ Streaming.\r\n\ \r\n\ Um\ usu\u00E1rio\ tem\ um\ nome\ e\ um\ hist\u00F3rico\ de\ filmes\ assistidos.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2023.11.02\r\n
+comment1.params=nome
+comment1.target=Usuario(java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Usuario\r\n
+comment2.params=
+comment2.target=java.lang.String\ obterNome()
+comment2.text=\r\n\ @return\ o\ nome\ do\ usu\u00E1rio\r\n
+comment3.params=
+comment3.target=int\ obterTempoAssistido()
+comment3.text=\r\n\ @return\ o\ tempo\ total\ assistido\ pelo\ usu\u00E1rio\ (em\ minutos)\r\n
+comment4.params=filme
+comment4.target=void\ assistirFilme(Filme)
+comment4.text=\r\n\ Adiciona\ um\ filme\ ao\ hist\u00F3rico\ assistido\ pelo\ usu\u00E1rio\r\n
+comment5.params=
+comment5.target=int\ nroFilmesAssistidos()
+comment5.text=\r\n\ @return\ a\ quantidade\ de\ filmes\ assistidos\ pelo\ usu\u00E1rio\r\n
+comment6.params=
+comment6.target=java.lang.String\ listarHistorico()
+comment6.text=\r\n\ Retorna\ uma\ String\ com\ os\ t\u00EDtulos\ de\ todos\ os\ filmes\ \r\n\ assistidos\ pelo\ usu\u00E1rio\r\n
+numComments=7
