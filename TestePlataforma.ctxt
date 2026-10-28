@@ -1,7 +1,7 @@
 #BlueJ class context
+#Wed Oct 28 18:18:24 BRT 2026
 comment0.target=TestePlataforma
-comment0.text=\r\n\ Classe\ usada\ para\ testar\ os\ m\u00E9todos\ da\ classe\ Plataforma.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2023.11.02\r\n
-comment1.params=
+comment0.text=\n Classe usada para testar os m\u00E9todos da classe Plataforma.\n \n @author Julio C\u00E9sar Alves\n @version 2023.11.02\n
 comment1.target=TestePlataforma()
-comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ TestePlataforma\r\n
+comment1.text=\n Construtor para objetos da classe TestePlataforma\n
 numComments=2

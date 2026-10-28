@@ -17,9 +17,11 @@ public class TestePlataforma
         
         PlataformaDeStreaming netflix = new PlataformaDeStreaming();
         
-        netflix.incluirFilme("Oppenheimer", "drama", 180);
-        netflix.incluirFilme("Barbie", "aventura", 114);
-        netflix.incluirFilme("Super Mario Bros. - O Filme", "animação", 92);
+        netflix.incluirFilme("Homem-Aranha: Um Novo Dia", "acao", 145);
+        netflix.incluirFilme("A Odisseia", "aventura", 158);
+        netflix.incluirFilme("Toy Story 5", "animacao", 102);
+        netflix.incluirFilme("O Diabo Veste Prada 2", "comedia", 110);
+        netflix.incluirFilme("Super Mario Galaxy: O Filme", "animacao", 98);
         
         System.out.println(netflix.listarCatalogo());
         

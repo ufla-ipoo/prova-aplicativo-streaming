@@ -114,17 +114,13 @@ public class PlataformaDeStreaming
      * Retorna a quantidade de filmes de um determinado gênero assistidos
      * por um usuário.
      * 
-     * O método ainda não está implementado corretamente.
+     * Se o usuário não for encontrado, retorna -1. Se o usuário não assistiu
+     * a nenhum filme do gênero informado, retorna 0.
      */
     public int filmesAssistidos(String nomeDoUsuario, String genero) {
-        Usuario usuario = buscarUsuario(nomeDoUsuario);
-        if (usuario != null) {
-            // altere o código aqui
-            return 0;
-        }
-        else {
-            return -1;
-        }
+        // implementação pendente, por enquanto, sempre retorna -1
+
+        return -1;
     }
     
     
